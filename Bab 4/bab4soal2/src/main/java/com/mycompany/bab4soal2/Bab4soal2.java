@@ -1,0 +1,24 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package com.mycompany.bab4soal2;
+
+/**
+ *
+ * @author RPL SMKN 4 BOGOR
+ */
+public class Bab4soal2 {
+
+   public static void main(String[] args) {
+        int angka1=5;
+        int angka2=6;
+        int angka3=8;
+        int angka4=8;
+        System.out.println("w = "+angka1);
+        System.out.println("x = "+angka2);
+        System.out.println("y = "+angka3+" - "+angka2 + "++");
+        System.out.println("z = "+angka4 + " - " + "++"+ angka1);
+        
+ }
+}
